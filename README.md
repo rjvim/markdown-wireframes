@@ -21,8 +21,8 @@ That's when we felt, may be there should be a simple way where context itself sh
 
 Can be used for dropdown, navigation menu etc.,
 
-- { Male, Female, Others }
-- { Profile, Settings, Logout }
+- `{ Male, Female, Others }`
+- `{ Profile, Settings, Logout }`
 
 ##### Table
 
