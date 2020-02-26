@@ -19,7 +19,7 @@ Password: ________
 [Forgot Password]
 ```
 
-**Actions:** [Submit](#dashboard), [Register](#register-page), [Forgot Password](#forgot-password)
+**Go To:** [Submit](#dashboard), [Register](#register-page), [Forgot Password](#forgot-password)
 
 ### Register Page
 
@@ -38,7 +38,7 @@ Footer
 
 ```
 
-**Actions:** [Register](#registration-confirmation)
+**Go To:** [Register](#registration-confirmation)
 
 ### Forgot Password
 
@@ -84,5 +84,3 @@ Footer
 ```
 
 ---
-
-
