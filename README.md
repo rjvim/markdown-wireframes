@@ -6,6 +6,8 @@ We have explored tools like mermaidjs etc., which can help drawing flowcharts, b
 
 That's when we felt, may be there should be a simple way where context itself should be sufficient to convey meaning, assuming that the readers are smart enough to put together and get used to it very quickly.
 
+And we stumbled upon [https://github.com/brikis98/wmd](https://github.com/brikis98/wmd), though this tool generates html, this representation felt that it can be extended further.
+
 ### Examples
 
 * [Authentication Wireframes](https://github.com/rjvim/markdown-wireframes/wiki/Authentication-Wireframes)
