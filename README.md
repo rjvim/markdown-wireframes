@@ -4,7 +4,7 @@ The idea was how easy it would be, if there was a way to design rough wireframes
 
 We have explored tools like mermaidjs etc., which can help drawing flowcharts, but they won't be rendered in github after pushing. It kinda becomes inflexible and also all the developers, architects who are involved should also install those tools to see what it means. 
 
-That's when we felt, may be there should be a simple way where context itself should be sufficient to convey meaning, assuming that the readers are smart enough to put together and get used to it very quickly.
++ That's when we felt, may be there should be a simple way where context itself should be sufficient to convey meaning, assuming that the readers are smart enough to put together and get used to it very quickly.
 
 And we stumbled upon [https://github.com/brikis98/wmd](https://github.com/brikis98/wmd), though this tool generates html, this representation felt that it can be extended further.
 
